@@ -9,7 +9,7 @@ h1 {
 }
 
 .red {
-    background-color: hsl(240, 100%, 50%);
+    background: hsl(240, 100%, 50%);
 }
 .green {
     background-color: #00FF00;
